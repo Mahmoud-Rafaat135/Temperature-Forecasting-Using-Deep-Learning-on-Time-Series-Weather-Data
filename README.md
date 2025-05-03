@@ -66,6 +66,7 @@ These low error values indicate high prediction accuracy, with an average predic
 📈 Results Visualization:
 
 Actual vs. Predicted temperatures were plotted, showing a close match between the two — confirming the model’s effectiveness in capturing temperature patterns over time.
+
 ✅ Conclusion:
 
 The project successfully demonstrates how deep learning models like LSTM and GRU can be applied to weather time series data to forecast temperature with high accuracy. This approach can be extended to other meteorological variables and longer forecasting horizons.
